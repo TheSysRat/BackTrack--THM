@@ -22,7 +22,7 @@ Update permisions:
 
 chmod +x /home/orville/root.py
 
-Add file to config file /home/orville/.bashcr  :
+Add file to config file /home/orville/.bashrc  :
 
 echo "python3 /home/orville/root.py" >>  /home/orville/.bashrc
 
